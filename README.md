@@ -9,7 +9,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Android-00D4FF?style=for-the-badge&logo=android&logoColor=white)](#)
 [![Framework](https://img.shields.io/badge/Framework-Flutter-00D4FF?style=for-the-badge&logo=flutter&logoColor=white)](#)
 [![Status](https://img.shields.io/badge/Status-In%20Development-7C3AED?style=for-the-badge)](#)
-:::
+
 
 ------------------------------------------------------------------------
 
