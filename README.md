@@ -1,5 +1,4 @@
-::: {align="center"}
-`<img src="assets/ad-bomb-logo.png" alt="AD BOMB Logo" width="260" />`{=html}
+
 
 # ⚡ AD BOMB
 
