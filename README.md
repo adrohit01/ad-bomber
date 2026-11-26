@@ -148,7 +148,3 @@ repository.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
-**AD BOMB**\
-`<sub>`{=html}POWERED BY IDEAS. BUILT TO MAKE AN IMPACT.`</sub>`{=html}
-:::
