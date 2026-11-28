@@ -115,7 +115,7 @@ Before publishing a new release, update the app version in
 
 ## 📸 Screenshots
 
-Screenshots will be added here as the app UI is ready.
+ui of the AD BOMB applicaton
 
 
 <p align="center">
