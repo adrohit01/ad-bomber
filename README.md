@@ -117,14 +117,9 @@ Before publishing a new release, update the app version in
 
 Screenshots will be added here as the app UI is ready.
 
-```{=html}
-<!--
-Example:
-| Home | Settings |
-|---|---|
-| ![Home](screenshots/home.png) | ![Settings](screenshots/settings.png) |
--->
-```
+| Dashboard | Settings |
+|-----------|----------|
+| ![Dashboard](assets/dashboard.png) | ![Settings](assets/settings.png) |
 ## 📝 Changelog
 
 See [GitHub Releases](../../releases) for version history and release
