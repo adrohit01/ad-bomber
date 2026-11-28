@@ -119,7 +119,7 @@ Screenshots will be added here as the app UI is ready.
 
 | Dashboard | Settings |
 |-----------|----------|
-| ![Dashboard](assets/dashboard.png) | ![Settings](assets/settings.png) |
+| ![Update Page](assets/Screenshot_1795843776.png) | ![Settings](assets/settings.png) |
 ## 📝 Changelog
 
 See [GitHub Releases](../../releases) for version history and release
