@@ -119,8 +119,10 @@ Screenshots will be added here as the app UI is ready.
 
 
 <p align="center">
-  <img src="assets/Screenshot_1795843776.png" alt="Project Banner" width="400"/>
-  <img src="assets/Screenshot_1795843776.png" alt="Project Banner" width="400"/>
+  <img src="assets/licence.png" alt="Project Banner" width="200"/>
+  <img src="assets/home.png" alt="Project Banner" width="200"/>
+  <img src="assets/drawer.png" alt="Project Banner" width="200"/>
+  <img src="assets/Screenshot_1795843776.png" alt="Project Banner" width="200"/>
 </p>
 
 ## 📝 Changelog
