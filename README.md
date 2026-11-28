@@ -117,9 +117,12 @@ Before publishing a new release, update the app version in
 
 Screenshots will be added here as the app UI is ready.
 
-| Dashboard | Settings |
-|-----------|----------|
-| ![Update Page](assets/Screenshot_1795843776.png) | ![Settings](assets/settings.png) |
+
+<p align="center">
+  <img src="assets/Screenshot_1795843776.png" alt="Project Banner" width="400"/>
+  <img src="assets/Screenshot_1795843776.png" alt="Project Banner" width="400"/>
+</p>
+
 ## 📝 Changelog
 
 See [GitHub Releases](../../releases) for version history and release
